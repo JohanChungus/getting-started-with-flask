@@ -2,7 +2,7 @@
 
 [![Deploy to Divio](https://img.shields.io/badge/DEPLOY-TO%20DIVIO-DFFF67?logo=docker&logoColor=white&labelColor=333333)](https://control.divio.com/app/new/?template_url=https://github.com/divio/getting-started-with-flask/archive/refs/heads/main.zip)
 
-Welcome to our QuickStart template – your portal to swift application development and seamless local testing. Whether you're delving into Flask for the first time or optimizing your workflow, our template, based on Flask's [Quickstart Guide](https://flask.palletsprojects.com/en/3.0.x/quickstart/), has got you covered.
+Welcome to our QuickStart template – your portal to swift application development and seamless local testing. Whether you're delving into Flask for the first time or optimizing your workflow, our template, based on Flask's [Quickstart Guide](https://flask.palletsprojects.com/en/latest/quickstart/), has got you covered.
 
 ## Cloud Setup
 
@@ -19,5 +19,5 @@ Alternatively, build this app locally using Docker:
 1. Ensure [Docker](https://docs.docker.com/get-docker/) is installed and running.
 2. Clone this repository locally.
 3. Build the app with `docker compose build`.
-6. Run the app using `docker compose up`.
-7. Open [http://localhost:8000]() to view your app.
+4. Run the app using `docker compose up`.
+5. Open [http://localhost:8000]() to view your app.
